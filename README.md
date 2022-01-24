@@ -1,7 +1,6 @@
 # Olá, Mundo!
- primeiro repositorio do git e gitHub
-
- Primeira Aula criada.
+ Primerio Reposi do Git e GitHub.
+ Material do curso **Git e GitHub**, dispovinel no  *Youtube.
  
  Essa linha eu alterei diretemente no site.  QUE IMPRESSIONATE !
 
